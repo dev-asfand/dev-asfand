@@ -1,412 +1,409 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asfand%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20React%20Native%20Developer%20%7C%20iOS%20%26%20Android%20%7C%204%2B%20Years&descAlignY=55&descSize=16"/>
+
 <div align="center">
 
-# Asfand Ahmed
-### Senior React Native Developer | iOS & Android | 4+ Years Experience
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Native+Developer+%F0%9F%9A%80;iOS+%26+Android+Expert+%F0%9F%93%B1;4%2B+Years+of+Mobile+Development;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-asfandbutt97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asfandbutt97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asfand--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asfand-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-dev--asfand-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-asfand)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B92_303_424_4085-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923034244085)
+<br/>
 
-📍 Lahore, Pakistan &nbsp;|&nbsp; 🟢 Open to Work — Remote & On-site
-
-![Profile Views](https://komarev.com/ghpvc/?username=dev-asfand&color=brightgreen&style=flat-square)
+[![Email](https://img.shields.io/badge/Gmail-asfandbutt97%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asfandbutt97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asfand--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asfand-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-dev--asfand-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dev-asfand)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92_303_424_4085-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923034244085)
+[![Views](https://komarev.com/ghpvc/?username=dev-asfand&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/dev-asfand)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-> I'm a **Senior React Native Developer** with **4+ years** of experience delivering high-performance, cross-platform iOS & Android applications. I've worked across **food delivery, e-commerce, fintech, health, and education** domains — taking apps from design to live on the App Store & Google Play.
+```yaml
+name        : Asfand Ahmed
+location    : Lahore, Pakistan
+experience  : 4+ Years
+role        : Senior React Native Developer
+status      : 🟢 Open to Work — Remote & On-site
+domains     : Food Delivery, Fintech, Health, E-commerce, Community
+superpower  : Turning Figma designs into pixel-perfect mobile apps
+```
 
-- 🚀 Built apps used by thousands of real users across multiple industries
-- 🎨 Strong eye for UI/UX — work closely with Figma designs to pixel-perfect implementation
-- 📦 Experienced in full app lifecycle: development → testing → CI/CD → store publication
-- 👨‍🏫 Led teams, mentored juniors, and conducted code reviews
-- ⚡ Focused on **performance, clean code, and scalable architecture**
-
----
-
-## 🏢 Work Experience
-
-### Senior React Native Developer
-**Teams.pk** · Full-time · Oct 2023 – Present · Lahore, Pakistan
-
-> Leading tech company specializing in mobile application solutions for restaurants and e-commerce.
-
-- Developed & maintained production mobile apps for **restaurants and e-commerce** clients
-- Reduced app loading time significantly through **performance optimization techniques**
-- Integrated **REST APIs**, payment gateways, and third-party SDKs
-- Collaborated closely with designers and product managers for seamless UX
-
----
-
-### Lead Front End Developer
-**Tech Experts** · Full-time · Aug 2023 – Mar 2024 · Remote
-
-> Mobile education application company.
-
-- **Led a team** of React Native developers, conducted code reviews & mentoring
-- Achieved **98% device compatibility** through responsive layout implementation
-- Managed end-to-end **App Store & Google Play Store** publication process
-- Built highly scalable mobile applications with clean architecture
-
----
-
-### Junior React Native Developer
-**724.ONE** · Full-time · Oct 2022 – Sep 2023 · Lahore, Pakistan
-
-> IT service management and development company.
-
-- Reduced app **crash rates by 60%** through debugging and QA testing
-- Boosted **user engagement by 25%** through improved UI/UX
-- **Streamlined checkout process** cutting transaction times by 40%
-- Implemented Redux Toolkit for optimized state management
-
----
-
-### React Native Developer Intern
-**.log Solution** · Internship · Apr 2022 – Sep 2022 · Lahore, Pakistan
-
-- Built Android task management app with **offline capabilities**
-- Strengthened foundations in UI design, state management, and props handling
+- 📱 Built **15+ production apps** deployed on App Store & Google Play
+- ⚡ Reduced app crash rates by **60%** and load times across multiple apps
+- 👥 Led dev teams, mentored juniors, and owned the full app lifecycle
+- 🎨 Strong collaboration with designers — Figma to React Native
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<div align="center">
 
-### APIs & Backend
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Sockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| **Core** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) |
+| **APIs** | ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Socket.io](https://img.shields.io/badge/Sockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Payments** | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![In-App Purchase](https://img.shields.io/badge/In_App_Purchase-0D96F6?style=flat-square&logo=apple&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **Store** | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white) ![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white) |
 
-### Payments & Maps
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![In App Purchase](https://img.shields.io/badge/In_App_Purchase-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+</div>
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![XCode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)
+---
 
-**Also:** Animations, Live Streaming, Chat, SVG Images, UI/UX, Third-Party Libraries & SDKs
+## 💼 Work Experience
+
+<details open>
+<summary><b>🔵 Senior React Native Developer — Teams.pk</b> &nbsp;|&nbsp; Oct 2023 – Present · Lahore</summary>
+<br/>
+
+> Leading tech company in mobile app solutions for restaurants & e-commerce.
+
+- Developed & maintained production apps for **restaurants and e-commerce** clients
+- Reduced app loading time using **performance optimization techniques**
+- Integrated **REST APIs**, payment gateways, and third-party SDKs
+- Collaborated with designers and PMs for seamless UX delivery
+</details>
+
+<details>
+<summary><b>🟣 Lead Front End Developer — Tech Experts</b> &nbsp;|&nbsp; Aug 2023 – Mar 2024 · Remote</summary>
+<br/>
+
+> Mobile education application company.
+
+- **Led a dev team**, conducted code reviews and mentored junior developers
+- Achieved **98% device compatibility** through responsive layouts
+- Managed full **App Store & Google Play** publication pipeline
+- Built scalable React Native apps with clean architecture
+</details>
+
+<details>
+<summary><b>🟢 Junior React Native Developer — 724.ONE</b> &nbsp;|&nbsp; Oct 2022 – Sep 2023 · Lahore</summary>
+<br/>
+
+> IT service management and development company.
+
+- Reduced crash rates by **60%** through debugging & QA
+- Increased user engagement by **25%** via UI/UX improvements
+- Cut transaction times by **40%** with streamlined checkout flow
+- Implemented Redux Toolkit for optimized state management
+</details>
+
+<details>
+<summary><b>⚪ React Native Intern — .log Solution</b> &nbsp;|&nbsp; Apr 2022 – Sep 2022 · Lahore</summary>
+<br/>
+
+- Built Android task management app with **offline capabilities**
+- Strengthened foundations in UI, state management, and props
+</details>
 
 ---
 
 ## 📱 Projects
 
-> Designed and developed across Food Delivery, Fintech, Health, Community, and E-commerce domains.
+> 15 apps across Food Delivery · Fintech · Health · Community · Productivity domains
 
 ---
 
-### 🍔 1. Hungry Bite — Food Delivery App
-**Domain:** Food & Beverage / On-demand Delivery
+### 🍔 Hungry Bite — Food Delivery App
+`React Native` `REST APIs` `Google Maps` `Redux` `Stripe`
 
-| | |
-|---|---|
-| **Type** | Food Delivery Mobile App |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, REST APIs, Google Maps, Redux |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/hungry-bite.png" width="240" alt="Hungry Bite"/>
+</td>
+<td valign="top">
 
-**Features:**
+**Domain:** Food & Beverage · On-demand Delivery
+
+**What it does:**
+A full-featured food delivery app where users can browse restaurants by category, choose delivery or pickup, track orders, and earn rewards through a referral system.
+
+**Key Features:**
 - 📍 Location-based restaurant discovery
-- 🛵 Delivery & Pickup options with live tracking
-- 🔍 Search restaurants by category (Coffee, Rice, Pasta, Fries, etc.)
+- 🛵 Delivery & Pickup with live tracking
+- 🔍 Category filters (Coffee, Rice, Pasta, etc.)
 - ⭐ Restaurant ratings and reviews
-- 🛒 Cart management and order placement
-- 🎁 Referral / Share & Earn rewards system
-- 💳 Seamless checkout and payment flow
-- 🏠 Bottom navigation: Home, Grocery, Orders, Offers, More
+- 🎁 Share & Earn rewards system
+- 🛒 Cart management and secure checkout
+- 🏠 Grocery, Orders, Offers sections
 
-<img src="assets/projects/hungry-bite.png" width="250" alt="Hungry Bite App Screenshot">
-
----
-
-### ☕ 2. CardCafe — Cafe Loyalty & Ordering App
-**Domain:** Food & Beverage / Loyalty Programs
-
-| | |
-|---|---|
-| **Type** | Cafe App with Digital Loyalty Card |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, REST APIs, Redux |
-
-**Features:**
-- ☕ Menu browsing and ordering
-- 🎴 Digital loyalty card system
-- 👤 User profile and order history
-- 🔔 Push notifications for offers
-
-<img src="assets/projects/cardcafe.png" width="250" alt="CardCafe App Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-### 🍽️ 3. EaterApp — Restaurant Discovery App
-**Domain:** Food & Beverage / Restaurant Discovery
+### ☕ CardCafe — Cafe Loyalty & Ordering App
+`React Native` `REST APIs` `Redux` `Push Notifications`
 
-| | |
-|---|---|
-| **Type** | Restaurant Finder & Food App |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Figma, REST APIs |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/cardcafe.png" width="240" alt="CardCafe"/>
+</td>
+<td valign="top">
 
-**Features:**
-- 🗺️ Discover nearby restaurants
-- 🍕 Browse menus and food categories
+**Domain:** Food & Beverage · Loyalty Programs
+
+**What it does:**
+A cafe app with a built-in digital loyalty card system, allowing users to order items and earn stamps/rewards with every purchase.
+
+**Key Features:**
+- ☕ Menu browsing and in-app ordering
+- 🎴 Digital loyalty card (stamp collection)
+- 👤 User profiles and order history
+- 🔔 Push notifications for deals & offers
+- 🌐 Also available as a Web App
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🍽️ EaterApp — Restaurant Discovery
+`React Native` `Figma` `REST APIs` `Google Maps`
+
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/eaterapp.png" width="240" alt="EaterApp"/>
+</td>
+<td valign="top">
+
+**Domain:** Food & Beverage · Restaurant Discovery
+
+**What it does:**
+Helps users discover top-rated restaurants nearby, browse menus, and explore food categories with a beautiful visual interface.
+
+**Key Features:**
+- 🗺️ Map-based restaurant discovery
+- 🍕 Menu browsing by food category
 - ⭐ Ratings and user reviews
-- 📸 Food photography UI
+- 📸 Food photography-first UI
 
-<img src="assets/projects/eaterapp.png" width="250" alt="EaterApp Screenshot">
-
----
-
-### ☕ 4. CardCafe New — Redesigned Cafe App
-**Domain:** Food & Beverage
-
-| | |
-|---|---|
-| **Type** | Redesigned version of CardCafe |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Updated UI/UX |
-
-**Features:**
-- 🆕 Modernized UI with improved UX
-- 🎨 New design system and component library
-- 🚀 Performance improvements
-
-<img src="assets/projects/cardcafe-new.png" width="250" alt="CardCafe New Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 5. CardCafe Web App — Web Platform
-**Domain:** Food & Beverage / Web
+### 😌 FeelApp — Mental Wellness App
+`React Native` `Firebase` `Redux` `Notifications`
 
-| | |
-|---|---|
-| **Type** | Web Application |
-| **Platform** | Web (React) |
-| **Stack** | React, REST APIs, Responsive Design |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/feelapp.png" width="240" alt="FeelApp"/>
+</td>
+<td valign="top">
 
-**Features:**
-- 🌐 Full web version of CardCafe
-- 📱 Responsive across all screen sizes
-- 🛒 Online ordering and loyalty tracking
+**Domain:** Health & Wellness · Mental Health
 
-<img src="assets/projects/cardcafe-web.png" width="500" alt="CardCafe Web Screenshot">
+**What it does:**
+A mental wellness app that helps users track their daily mood, journal their thoughts, and gain insights into emotional patterns over time.
 
----
-
-### 😌 6. FeelApp — Mental Wellness App
-**Domain:** Health & Wellness / Mental Health
-
-| | |
-|---|---|
-| **Type** | Mental Wellness & Mood Tracking |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Firebase, Redux |
-
-**Features:**
-- 🧠 Daily mood tracking and journaling
-- 📊 Wellness insights and analytics
+**Key Features:**
+- 🧠 Daily mood tracking & journaling
+- 📊 Weekly/monthly wellness insights
 - 🔔 Daily check-in reminders
-- 😊 Emotion-based UI design
+- 😊 Emotion-based calming UI
 
-<img src="assets/projects/feelapp.png" width="250" alt="FeelApp Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-### 💊 7. VitaminApp — Supplement Tracker
-**Domain:** Health & Wellness
+### 💊 VitaminApp — Supplement Tracker
+`React Native` `Firebase` `Local Notifications`
 
-| | |
-|---|---|
-| **Type** | Vitamin & Supplement Tracking App |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Firebase, Notifications |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/vitaminapp.png" width="240" alt="VitaminApp"/>
+</td>
+<td valign="top">
 
-**Features:**
-- 💊 Daily vitamin and supplement logging
-- ⏰ Smart reminders and scheduling
-- 📈 Health progress tracking
+**Domain:** Health & Wellness · Nutrition
+
+**What it does:**
+Helps users manage their daily vitamin and supplement intake with smart reminders and progress tracking.
+
+**Key Features:**
+- 💊 Daily supplement logging
+- ⏰ Smart scheduling and reminders
+- 📈 Health progress tracker
 - 🏥 Supplement information library
 
-<img src="assets/projects/vitaminapp.png" width="250" alt="VitaminApp Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ 8. Uni Charge — EV Charging App
-**Domain:** Clean Energy / University Campus
+### ⚡ Uni Charge — EV Charging App
+`React Native` `Google Maps` `REST APIs` `Stripe`
 
-| | |
-|---|---|
-| **Type** | EV Charging Station Management |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Maps, REST APIs, Payments |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/uni-charge.png" width="240" alt="Uni Charge"/>
+</td>
+<td valign="top">
 
-**Features:**
-- 🗺️ Find nearby charging stations on campus
-- ⚡ Real-time charging slot availability
-- 💳 In-app payment for charging sessions
-- 📊 Charging history and usage stats
+**Domain:** Clean Energy · Smart Campus
 
-<img src="assets/projects/uni-charge.png" width="250" alt="Uni Charge Screenshot">
+**What it does:**
+A university campus EV charging station finder and payment app, allowing students to locate available charging slots and pay in-app.
 
----
+**Key Features:**
+- 🗺️ Map view of campus charging stations
+- ⚡ Real-time slot availability
+- 💳 In-app payment for sessions
+- 📊 Charging history & usage analytics
 
-### ⚡ 9. Uni Charge Prototype
-**Domain:** Clean Energy / Prototyping
-
-| | |
-|---|---|
-| **Type** | Interactive Prototype (Figma) |
-| **Platform** | iOS |
-| **Stack** | Figma, Prototyping |
-
-**Features:**
-- 🎨 Full interactive prototype
-- 📐 User flow and navigation design
-- 🔄 Clickable demo for stakeholder presentations
-
-<img src="assets/projects/uni-charge-prototype.png" width="250" alt="Uni Charge Prototype Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-### 🍜 10. Eat & Vibe — Social Dining App
-**Domain:** Food & Social
+### 💳 Kwiikpay — Fintech Payment App
+`React Native` `Stripe` `Biometrics` `REST APIs` `Security`
 
-| | |
-|---|---|
-| **Type** | Social Food Experience App |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Firebase, Sockets |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/kwiikpay.png" width="240" alt="Kwiikpay"/>
+</td>
+<td valign="top">
 
-**Features:**
-- 🍽️ Discover food experiences with friends
-- 📸 Share food moments / social feed
-- 📍 Location-based restaurant suggestions
-- 💬 Live chat and group dining plans
+**Domain:** Fintech · Payments
 
-<img src="assets/projects/eat-and-vibe.png" width="250" alt="Eat & Vibe Screenshot">
+**What it does:**
+A fast, secure payment and money transfer app with biometric authentication, card management, and full transaction history.
 
----
-
-### 🥚 11. Ovah App — Food Delivery Design
-**Domain:** Food & Beverage
-
-| | |
-|---|---|
-| **Type** | Food Delivery App Design |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Figma, REST APIs |
-
-**Features:**
-- 🛵 Fast food delivery UI
-- 🔍 Advanced food search and filters
-- 🎨 Clean, modern app design
-
-<img src="assets/projects/ovah-app.png" width="250" alt="Ovah App Screenshot">
-
----
-
-### 💳 12. Kwiikpay — Fintech Payment App
-**Domain:** Fintech / Payments
-
-| | |
-|---|---|
-| **Type** | Fast Payment & Money Transfer App |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Stripe, REST APIs, Security |
-
-**Features:**
+**Key Features:**
 - 💸 Instant money transfers
-- 💳 Card management and linking
-- 🔒 Biometric authentication (Face ID / Fingerprint)
-- 📊 Transaction history and analytics
+- 💳 Card linking and management
+- 🔒 Face ID / Fingerprint authentication
+- 📊 Transaction history & analytics
 - 🧾 Payment receipts and invoicing
 
-<img src="assets/projects/kwiikpay.png" width="250" alt="Kwiikpay Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-### ✅ 13. Good One — Productivity App
-**Domain:** Productivity / Task Management
+### 🍜 Eat & Vibe — Social Dining App
+`React Native` `Firebase` `Socket.io` `REST APIs`
 
-| | |
-|---|---|
-| **Type** | Task & Productivity Management |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, SQLite, Redux |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/eat-and-vibe.png" width="240" alt="Eat and Vibe"/>
+</td>
+<td valign="top">
 
-**Features:**
-- ✅ Task creation and management
-- 📅 Calendar and deadline tracking
-- 🔔 Smart reminders
-- 📊 Productivity insights
+**Domain:** Food & Social
 
-<img src="assets/projects/good-one.png" width="250" alt="Good One Screenshot">
+**What it does:**
+A social dining experience app where users share food moments, plan group outings, and discover restaurants together with friends.
 
----
+**Key Features:**
+- 📸 Social food feed & sharing
+- 💬 Live group chat
+- 📍 Location-based suggestions
+- 👥 Group dining plans
 
-### 📁 14. WTI File — File Management App
-**Domain:** Utilities / File Management
-
-| | |
-|---|---|
-| **Type** | File Manager App |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Device Storage APIs |
-
-**Features:**
-- 📂 Browse and manage device files
-- 📤 File sharing and export
-- 🔍 Search and filter files
-- 🗂️ Organized file categories
-
-<img src="assets/projects/wti-file.png" width="250" alt="WTI File Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏘️ 15. EP Community — White Label Community App
-**Domain:** Community / Social Platform
+### 🏘️ EP Community — White Label Community App
+`React Native` `Firebase` `Sockets` `REST APIs` `White Label`
 
-| | |
-|---|---|
-| **Type** | White-label Community App |
-| **Platform** | iOS & Android |
-| **Stack** | React Native, Firebase, Sockets, REST APIs |
+<table>
+<tr>
+<td width="260" valign="top">
+<img src="assets/projects/ep-community.png" width="240" alt="EP Community"/>
+</td>
+<td valign="top">
 
-**Features:**
+**Domain:** Community · Social Platform
+
+**What it does:**
+A configurable white-label community platform for organizations to manage members, announcements, and real-time group communication.
+
+**Key Features:**
 - 👥 Community groups and membership
 - 💬 Real-time chat and messaging
-- 📢 Announcements and notifications
+- 📢 Announcements & notifications
 - 🔄 White-label configurable branding
 
-<img src="assets/projects/ep-community.png" width="250" alt="EP Community Screenshot">
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Key Achievements
+### ✅ Good One · 🥚 Ovah App · 📁 WTI File · ☕ CardCafe New
 
-| 🏅 | Achievement | Impact |
-|----|------------|--------|
-| 🚀 | **High User Engagement Launch** | 40% increase in user engagement after app launch |
-| 💳 | **Streamlined Checkout** | Halved checkout time, increased transaction volumes |
-| ⚡ | **Performance Optimization** | Significantly reduced load times across multiple apps |
-| 🐛 | **Crash Rate Reduction** | Reduced crash rates by 60% through debugging & QA |
-| 🎓 | **Team Leadership & Mentorship** | Mentored 2 junior devs to full React Native competency |
-| 📱 | **Device Compatibility** | Achieved 98% compatibility across all device types |
+<table>
+<tr>
+
+<td align="center" width="200">
+<img src="assets/projects/good-one.png" width="160" alt="Good One"/><br/>
+<b>Good One</b><br/>
+<sub>Productivity & Task Management</sub><br/>
+<sub><code>SQLite</code> <code>Redux</code> <code>Notifications</code></sub>
+</td>
+
+<td align="center" width="200">
+<img src="assets/projects/ovah-app.png" width="160" alt="Ovah App"/><br/>
+<b>Ovah App</b><br/>
+<sub>Food Delivery Design</sub><br/>
+<sub><code>React Native</code> <code>Figma</code> <code>REST APIs</code></sub>
+</td>
+
+<td align="center" width="200">
+<img src="assets/projects/wti-file.png" width="160" alt="WTI File"/><br/>
+<b>WTI File</b><br/>
+<sub>File Manager App</sub><br/>
+<sub><code>Device Storage</code> <code>React Native</code></sub>
+</td>
+
+<td align="center" width="200">
+<img src="assets/projects/cardcafe-new.png" width="160" alt="CardCafe New"/><br/>
+<b>CardCafe New</b><br/>
+<sub>Redesigned Cafe App</sub><br/>
+<sub><code>React Native</code> <code>New UI/UX</code></sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏅 | Result |
+|----|--------|
+| 🚀 **40% User Engagement Increase** | Launched app with high adoption rate |
+| ⚡ **60% Crash Rate Reduction** | Meticulous debugging and QA across apps |
+| 💳 **2x Faster Checkout** | New payment integration halved transaction time |
+| 📱 **98% Device Compatibility** | Responsive layouts across all screen sizes |
+| 👨‍🏫 **2 Devs Mentored** | Junior developers now competent in React Native |
+
+</div>
 
 ---
 
@@ -414,11 +411,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-asfand&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=dev-asfand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asfand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asfand&theme=radical&langs_count=6&layout=compact&hide_border=true)
+<br/>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-asfand&theme=dracula&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dev-asfand&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-asfand&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -426,29 +428,20 @@
 
 ## 🎓 Education
 
-**Bachelor of Science in Information Technology**
-*University of Sargodha* — 2014 – 2018 | Lahore, Pakistan
+**BSc Information Technology** — University of Sargodha · 2014–2018
 
 ---
 
-## 🌐 Languages
-
-🇬🇧 **English** — Professional Working Proficiency &nbsp;|&nbsp; 🇵🇰 **Urdu** — Native
-
----
-
-## 📬 Let's Connect
-
-I'm currently **open to new opportunities** — remote or on-site.
-
-> 💼 Whether you're hiring for a React Native role or need a mobile expert for your next product — let's talk!
-
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asfandbutt97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asfand-dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923034244085)
-
----
+## 📬 Hire Me
 
 <div align="center">
-  <i>"Building performant, scalable, and beautiful mobile experiences — one commit at a time."</i>
+
+> 💼 I'm currently **open to new opportunities** — Remote or On-site
+
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asfandbutt97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asfand-dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923034244085)
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
